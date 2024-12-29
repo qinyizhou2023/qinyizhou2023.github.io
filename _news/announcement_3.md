@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Have finished my visiting scholar in Anthony's lab at UCLA. Very grateful for the opportunity to work with him and his team.

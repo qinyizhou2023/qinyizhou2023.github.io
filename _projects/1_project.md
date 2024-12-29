@@ -1,81 +1,79 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Speaking Across Time with Da Vinci
+description: An AI-powered interactive experience with historical figures
+img: assets/img/davinci.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+> "Speaking Across Time with Da Vinci" explores the fusion of art and science through AI, enabling meaningful dialogues between historical wisdom and contemporary perspectives.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Project Overview
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This interdisciplinary project creates an innovative dialogue between Leonardo da Vinci and modern students, demonstrating the seamless integration of art and technology. Through advanced AI technologies, we bridge centuries of knowledge exchange.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="C:\Users\zqy\Documents\qinyizhou2023.github.io\assets\img\projects\davinci\1.webp" title="Da Vinci Interface" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="C:\Users\zqy\Documents\qinyizhou2023.github.io\assets\img\projects\davinci\2.webp" title="Interactive Session" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Left: The main interface of Da Vinci AI system; Right: A student engaging in conversation with the virtual Da Vinci
 </div>
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="C:\Users\zqy\Documents\qinyizhou2023.github.io\assets\img\projects\davinci\3.webp" title="System Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="C:\Users\zqy\Documents\qinyizhou2023.github.io\assets\img\projects\davinci\4.webp" title="User Testing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Left: Technical architecture of the system; Right: User testing session with students
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Key Features
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+- **Interactive Dialogue System**: Real-time conversations with a digitally recreated da Vinci
+- **Multi-modal Integration**: Combines visual, audio, and textual interactions
+- **Historical Accuracy**: Carefully curated responses based on da Vinci's writings and philosophy
+- **Educational Value**: Bridges historical knowledge with contemporary learning
+
+## Technical Implementation
+
+The project leverages state-of-the-art AI technologies:
+
+| Component | Technology |
+|-----------|------------|
+| Motion Capture | Advanced facial and body tracking |
+| Voice Synthesis | Neural network-based audio generation |
+| 3D Modeling | Realistic character visualization |
+| AIGC | Background and environment generation |
+
+
+
+## Research Team
+
+### *Principal Investigators*
+- **Prof. Sai Ma** - *Academy of Arts & Design, Tsinghua University*
+- **Prof. Yingqing Xu** - *Tsinghua University Future Lab*
+
+### *Core Team*
+- Qinyi Zhou* - *Project Lead*
+- Jie Deng* - *Technical Implementation*
+- Chenzhuo Xiang* - *User Experience Design*
+- Qingyuan Shi* - *Digital Innovation*
+
+<div class="note">
+* indicates corresponding author
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+## Recognition
+- 🏆 Featured at Xiamen Design & Art Week 2024
+- 🤝 Collaboration with Xiaoice Team 

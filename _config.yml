@@ -2,12 +2,27 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Qinyi Zhou # the website title (if blank, full name will be used instead)
-first_name: Qinyi
+title: Qinyi Zhou's Personal Website # the website title (if blank, full name will be used instead)
+first_name: Qinyi (Chin Yee)
 middle_name: R.
 last_name: Zhou
 email: zhouqy22@tsinghua.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
+ Hi!
+ I am Zhou Qinyi (周沁怡), a third-year master's student in Industrial Design at Tsinghua University Academy of Arts & Design, specializing in responsible AI and human-AI co-creation. 
+ I am supervised by [Prof. Sai Ma](https://www.ad.tsinghua.edu.cn/info/1226/15203.htm) and 
+ [Prof. Yingqing Xu](https://www.ad.tsinghua.edu.cn/info/1265/15135.htm).
+ I am currently a research intern in [MSRA](https://www.msra.cn/)
+ Previously, I was a visiting scholar in [HCI lab](https://hci.ucla.edu/) at UCLA. I collaborated with [Prof. Xiang "Anthony" Chen](https://hci.prof/) about overreliance on AI.
+
+My research interests span creative AI, user-centered design, and the integration of human creativity with MLLMs(multimodal large language models). 
+I believe in the transformative potential of AI to empower designers and facilitate new forms of creativity support tools.
+ 
+
+I research:
+1. How users interact with AI tools and what problems they encounter.
+2. How to design AI tools to facilitate a human-AI co-creation process.
+
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
