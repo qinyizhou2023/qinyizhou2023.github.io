@@ -17,9 +17,21 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am Zhou Qinyi (周沁怡), a third-year master's student in Industrial Design at Tsinghua University Academy of Arts & Design, supervised by [Prof. Sai Ma](https://www.ad.tsinghua.edu.cn/info/1226/15203.htm) and [Prof. Yingqing XU](https://www.ad.tsinghua.edu.cn/info/1226/15204.htm). I am currently a research intern in [MSRA](https://www.msra.cn/). Previously, I was a visiting scholar in Anthony's lab at UCLA, where I collaborated on responsible AI.
+Hi!
+I am Zhou Qinyi (周沁怡), a third-year master's student in Industrial Design at Tsinghua University Academy of Arts & Design, specializing in responsible AI and human-AI co-creation. 
+I am supervised by [Prof. Sai Ma](https://www.ad.tsinghua.edu.cn/info/1226/15203.htm) and 
+[Prof. Yingqing Xu](https://www.ad.tsinghua.edu.cn/info/1265/15135.htm).
+I am currently a research intern in [MSRA](https://www.msra.cn/)
+Previously, I was a visiting scholar in [HCI lab](https://hci.ucla.edu/) at UCLA. I collaborated with [Prof. Xiang "Anthony" Chen](https://hci.prof/) about overreliance on AI.
 
-My research interests span creative AI, user-centered design, and the integration of human creativity with machine learning models. I believe in the transformative potential of AI to empower designers and facilitate new forms of creativity.
+My research interests span creative AI, user-centered design, and the integration of human creativity with MLLMs(multimodal large language models). 
+I believe in the transformative potential of AI to empower designers and facilitate new forms of creativity support tools.
+ 
+I research: 
+1. How users' congnitive and behavioral patterns affect their interaction with AI tools.
+2. How to design AI tools to support a human-AI co-creation process.
+
+
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

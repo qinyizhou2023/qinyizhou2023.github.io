@@ -2,7 +2,7 @@
 layout: page
 title: Speaking Across Time with Da Vinci
 description: An AI-powered interactive experience with historical figures
-img: assets/img/davinci.jpg
+img: assets\img\projects\davinci\image_davinci.png
 importance: 1
 category: work
 related_publications: false
@@ -15,27 +15,24 @@ related_publications: false
 This interdisciplinary project creates an innovative dialogue between Leonardo da Vinci and modern students, demonstrating the seamless integration of art and technology. Through advanced AI technologies, we bridge centuries of knowledge exchange.
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="C:\Users\zqy\Documents\qinyizhou2023.github.io\assets\img\projects\davinci\1.webp" title="Da Vinci Interface" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="C:\Users\zqy\Documents\qinyizhou2023.github.io\assets\img\projects\davinci\2.webp" title="Interactive Session" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://youtu.be/4NsqDCZ2OOk" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: The main interface of Da Vinci AI system; Right: A student engaging in conversation with the virtual Da Vinci
+    Project demonstration video
 </div>
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="C:\Users\zqy\Documents\qinyizhou2023.github.io\assets\img\projects\davinci\3.webp" title="System Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/davinci/3.png" title="Interactive Session" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="C:\Users\zqy\Documents\qinyizhou2023.github.io\assets\img\projects\davinci\4.webp" title="User Testing" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/davinci/4.png" title="Group Discussion" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: Technical architecture of the system; Right: User testing session with students
+    Left: Interactive dialogue session with Da Vinci; Right: Students engaging in a group discussion with the virtual mentor
 </div>
 
 ## Key Features
@@ -56,7 +53,12 @@ The project leverages state-of-the-art AI technologies:
 | 3D Modeling | Realistic character visualization |
 | AIGC | Background and environment generation |
 
-
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/davinci/6.png" title="Da Vinci Virtual Human" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+</div>
 
 ## Research Team
 
@@ -72,7 +74,7 @@ The project leverages state-of-the-art AI technologies:
 
 <div class="note">
 * indicates corresponding author
-</div>
+<\div>
 
 ## Recognition
 - 🏆 Featured at Xiamen Design & Art Week 2024
