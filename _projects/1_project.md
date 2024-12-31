@@ -58,15 +58,14 @@ The project leverages state-of-the-art AI technologies:
         {% include figure.liquid loading="eager" path="assets/img/projects/davinci/6.png" title="Da Vinci Virtual Human" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-</div>
 
 ## Research Team
 
-### *Principal Investigators*
+*Principal Investigators*
 - **Prof. Sai Ma** - *Academy of Arts & Design, Tsinghua University*
 - **Prof. Yingqing Xu** - *Tsinghua University Future Lab*
 
-### Core Team
+*Core Team*
 - Qinyi Zhou* - *Project Lead*
 - Jie Deng* - *Technical Implementation*
 - Chenzhuo Xiang* - *User Experience Design*
@@ -74,7 +73,7 @@ The project leverages state-of-the-art AI technologies:
 
 <div class="note">
 * indicates corresponding author
-</div>
+
 
 ## Recognition
 - 🏆 Featured at Xiamen Design & Art Week 2024

@@ -27,6 +27,8 @@ My research focuses on:
 - How users' cognitive and behavioral patterns affect their interaction with AI tools
 - How to design AI tools to support a human-AI co-creation process
 
+📫 Get in Touch 
+I'm always interested in collaborating on projects at the intersection of design and AI. Feel free to reach out!
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

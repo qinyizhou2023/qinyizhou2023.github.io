@@ -1,81 +1,201 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Cuby and His Shadow Friend
+description: A Game-Based STEAM Learning Book for Kids Ages 6-9
+img: assets/img/cuby/hero.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# Cuby and His Shadow Friend
+## A Game-Based STEAM Learning Book for Kids Ages 6-9
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+### Introduction
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+"Cuby and His Shadow Friend" is an embodied, game-based STEAM learning book designed to help children aged 6-9 explore concepts of light and shadow through interactive, parent-child co-reading. By using embodied learning principles, the book engages multiple senses, enhancing cognitive and emotional development through tactile, auditory, and visual interactions.
+
+
+### Design Process
+
+#### Participatory Design Approach
+
+To ensure our educational resource effectively meets children's needs, we employed a participatory design methodology, actively engaging end-users in the development process. Our approach involved:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/designresearch.png" title="Design Research Process" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Overview of our participatory design research process and methodology
 </div>
+
+##### Research Participants
+- 3 children (ages 6-9)
+- 3 parents
+- 2 science education teachers
+- Interdisciplinary expert team
+
+##### Methodology
+Semi-structured interviews were conducted to gather insights about:
+- Children's reading habits and preferences
+- Parents' observations of learning processes
+- Teachers' experiences with educational materials
+
+#### Key Research Findings
+
+<div class="row">
+    <div class="col-sm-4">
+        <div class="card">
+            <div class="card-body">
+                <h5>Children's Feedback</h5>
+                - Preference for interactive content
+                - Difficulty with dense text
+                - High engagement with visual elements
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-4">
+        <div class="card">
+            <div class="card-body">
+                <h5>Parents' Input</h5>
+                - Desire for engaging narratives
+                - Need for simple, clear explanations
+                - Focus on building reading confidence
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-4">
+        <div class="card">
+            <div class="card-body">
+                <h5>Teachers' Insights</h5>
+                - Need for deeper scientific content
+                - Importance of hands-on activities
+                - Value of clear activity guidelines
+            </div>
+        </div>
+    </div>
+</div>
+
+### Design Goals
+- Integration of game-like interactive elements
+- Balance between educational depth and accessibility
+- Clear, structured activity guidelines
+- Reduced text density with enhanced visual communication
+- Incorporation of hands-on experimental components
+
+
+### Interactive Design Details
+
+The book features six interactive scenarios that teach different aspects of light and shadow physics:
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design1.png" title="Hide and Seek" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design2.png" title="Dancing Shadows" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Left: Hide and Seek - Cloud shadows demonstrate light blockage; Right: Dancing Shadows - Musical interaction with moving light
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+1. **Hide and Seek**: A pop-up cloud structure with integrated sound effects teaches shadow formation. Children use a flashlight to observe how clouds block light, creating a direct connection between daily experiences and scientific principles.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+2. **Dancing Shadows**: Through rhythmic music integration, children move a flashlight to create dancing shadows, learning about the relationship between light source movement and shadow positioning.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design3.png" title="Shadow Theater" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design4.png" title="Sun Bathing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Left: Shadow Theater - Exploring light's straight-line travel; Right: Sun Bathing - Understanding shadow length changes
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+3. **Shadow Theater**: A pop-up theater structure with insertable geometric shapes demonstrates how light travels in straight lines. Children create various shadow patterns by manipulating shapes and observing their projections.
 
-{% raw %}
+4. **Sun Bathing**: Using a guided track system, children move a light source to simulate the sun's daily path, learning how Earth's rotation affects shadow length throughout the day.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design5.png" title="Colorful Friends" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design6.png" title="Color Refraction" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
+<div class="caption">
+    Left: Colorful Friends - Understanding light composition; Right: Color Refraction - Exploring light spectrum through prisms
+</div>
 
-{% endraw %}
+5. **Colorful Friends**: Through an innovative track mechanism, children guide Cuby through six colored light beams, discovering how different colors combine to create white light.
+
+6. **Color Refraction**: The book's climax features a hidden prism within Cuby, allowing children to explore light refraction and spectrum formation through hands-on experimentation.
+
+Each interaction is carefully designed to transform abstract physics concepts into tangible, playful experiences that align with children's natural curiosity and learning patterns.
+
+
+### Key Innovations
+
+#### 1. Multiple Embodied Interactive Designs
+- **Interactive Contextual Learning**: Children actively control flashlight positions to observe shadows, transforming abstract concepts into tangible experiences.
+- **Multimodal Interactive Design**: Integration of tactile and auditory elements enhances the learning experience.
+- **Multi-Material Handicrafts**: DIY activities strengthen emotional connections while promoting understanding of light and shadow principles.
+
+#### 2. Narrative Design: Learning Guided by Plots
+- **Emotional Engagement**: Minimalist character design focuses attention on light and shadow phenomena
+- **Progressive Knowledge Integration**: Story complexity aligns with learning objectives
+- **Hidden Narrative Layers**: UV light reveals concealed dialogues, encouraging exploration
+
+#### 3. Low-Cost and Long-Term Utilization
+- Practical design optimizes space through strategic structural layout
+- Embedded structures enable varied interactions within limited page surfaces
+- Reusable elements extend the book's lifecycle
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cuby/interaction1.jpg" title="Shadow Theater" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cuby/interaction2.jpg" title="Light Exploration" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Interactive features demonstrating shadow theater and light exploration activities
+</div>
+
+### Educational Impact
+
+User studies have shown that the book's multi-sensory, interactive features are highly engaging, particularly for younger readers. The UV light feature and prism cut-out activities have proven especially effective in sparking curiosity and facilitating understanding of complex scientific concepts.
+
+### Future Development
+
+Future enhancements may include:
+- Integration of augmented reality (AR) for independent exploration
+- Optimization of production costs and components
+- Expansion of the Cuby character into a broader educational IP
+
+### Publications
+This research has been documented in academic papers and presentations, contributing to the field of educational technology and STEAM learning methodologies.
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cuby/summary.jpg" title="Project Summary" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Overview of the project's impact on STEAM education
+</div>
+
+
+### Research Team
+- **Qinyi Zhou** - Tsinghua University
+- **Mengyu Wang** - University of Oxford
+- **Yufei Shi** - Communication University of China
+- **Zihan Xu** - Beijing University of Posts and Telecommunications
+- **Yukou Lai** - University of Cambridge
