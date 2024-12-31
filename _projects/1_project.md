@@ -16,7 +16,7 @@ This interdisciplinary project creates an innovative dialogue between Leonardo d
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/4NsqDCZ2OOk" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://youtu.be/4Mi8C2MqpOk" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -79,3 +79,7 @@ The project leverages state-of-the-art AI technologies:
 ## Recognition
 - 🏆 Featured at Xiamen Design & Art Week 2024
 - 🤝 Collaboration with Xiaoice Team 
+
+I research: |
+  1. How users interact with AI tools and what factors influence their experience
+  2. How to design AI tools to facilitate artistic creation and creative thinking 
