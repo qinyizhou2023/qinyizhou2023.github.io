@@ -66,7 +66,7 @@ The project leverages state-of-the-art AI technologies:
 - **Prof. Sai Ma** - *Academy of Arts & Design, Tsinghua University*
 - **Prof. Yingqing Xu** - *Tsinghua University Future Lab*
 
-### *Core Team*
+### Core Team
 - Qinyi Zhou* - *Project Lead*
 - Jie Deng* - *Technical Implementation*
 - Chenzhuo Xiang* - *User Experience Design*
@@ -74,12 +74,9 @@ The project leverages state-of-the-art AI technologies:
 
 <div class="note">
 * indicates corresponding author
-<\div>
+</div>
 
 ## Recognition
 - 🏆 Featured at Xiamen Design & Art Week 2024
 - 🤝 Collaboration with Xiaoice Team 
 
-I research: |
-  1. How users interact with AI tools and what factors influence their experience
-  2. How to design AI tools to facilitate artistic creation and creative thinking 
