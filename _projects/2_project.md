@@ -87,7 +87,7 @@ Semi-structured interviews were conducted to gather insights about:
 
 ### Interactive Design Details
 
-The book features six interactive scenarios that teach different aspects of light and shadow physics:
+The book features six interactive scenarios that teach different aspects of light and shadow physics. Each interaction is designed to transform abstract physics concepts into tangible, playful experiences that align with children's natural curiosity and learning patterns.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -133,11 +133,11 @@ The book features six interactive scenarios that teach different aspects of ligh
     Left: Colorful Friends - Understanding light composition; Right: Color Refraction - Exploring light spectrum through prisms
 </div>
 
-5. **Colorful Friends**: Through an innovative track mechanism, children guide Cuby through six colored light beams, discovering how different colors combine to create white light.
+5. **Cuby'sColorful Friends**: Through an innovative track mechanism, children guide Cuby through six colored light beams, discovering how different colors combine to create white light.
 
 6. **Color Refraction**: The book's climax features a hidden prism within Cuby, allowing children to explore light refraction and spectrum formation through hands-on experimentation.
 
-Each interaction is carefully designed to transform abstract physics concepts into tangible, playful experiences that align with children's natural curiosity and learning patterns.
+
 
 
 ### Key Innovations
@@ -146,6 +146,12 @@ Each interaction is carefully designed to transform abstract physics concepts in
 - **Interactive Contextual Learning**: Children actively control flashlight positions to observe shadows, transforming abstract concepts into tangible experiences.
 - **Multimodal Interactive Design**: Integration of tactile and auditory elements enhances the learning experience.
 - **Multi-Material Handicrafts**: DIY activities strengthen emotional connections while promoting understanding of light and shadow principles.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/innovation1.png" title=" Left:Design of the shadow textures; Right: Hidden plots revealed by UV light." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 #### 2. Narrative Design: Learning Guided by Plots
 - **Emotional Engagement**: Minimalist character design focuses attention on light and shadow phenomena
@@ -171,6 +177,12 @@ Each interaction is carefully designed to transform abstract physics concepts in
 
 ### Educational Impact
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/final1.png" title="Process of User Study with a child" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 User studies have shown that the book's multi-sensory, interactive features are highly engaging, particularly for younger readers. The UV light feature and prism cut-out activities have proven especially effective in sparking curiosity and facilitating understanding of complex scientific concepts.
 
 ### Future Development
@@ -181,16 +193,13 @@ Future enhancements may include:
 - Expansion of the Cuby character into a broader educational IP
 
 ### Publications
-This research has been documented in academic papers and presentations, contributing to the field of educational technology and STEAM learning methodologies.
+This case study has been published in Springer's book series.
 
-<div class="row">
-    <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuby/summary.jpg" title="Project Summary" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Overview of the project's impact on STEAM education
-</div>
+
+
+
+
+
 
 
 ### Research Team
