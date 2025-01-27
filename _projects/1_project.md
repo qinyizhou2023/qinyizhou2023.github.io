@@ -2,7 +2,7 @@
 layout: page
 title: Speaking Across Time with Da Vinci
 description: An AI-powered interactive experience with historical figures
-img: assets\img\projects\davinci\image_davinci.png
+img: image_davinci.png
 importance: 1
 category: work
 related_publications: false
@@ -76,6 +76,8 @@ The project leverages state-of-the-art AI technologies:
 
 
 ## Recognition
+
 - 🏆 Featured at Xiamen Design & Art Week 2024
+
 - 🤝 Collaboration with Xiaoice Team 
 

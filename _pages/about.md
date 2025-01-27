@@ -24,11 +24,11 @@ I am Zhou Qinyi (周沁怡), a third-year master's student in Industrial Design 
 My research interests is in the intersection of AI and design. I design, develop, and evaluate AI tools to support creative thinking and ideation. I believe in the transformative potential of AI to empower human creativity and facilitate new forms of creativity support tools.
 
 My research focuses on:
-- How users' cognitive and behavioral patterns affect their interaction with AI tools
-- How to design AI tools to support a human-AI co-creation process
+- How users' cognitive and behavioral patterns affect their interaction with AI.
+- How can we design systems/theory to better support human creativity via human-AI co-creation.
 
 📫 Get in Touch 
-I'm always interested in collaborating on projects at the intersection of design and AI. Feel free to reach out!
+I'm always interested in collaborating with researchers who are good at AI, phycology. Please feel free to reach out via [email](mailto:qinyizhou@tsinghua.edu.cn).
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
