@@ -2,7 +2,7 @@
 layout: page
 title: Speaking Across Time with Da Vinci
 description: An AI-powered interactive experience with historical figures
-img: image_davinci.png
+img: /assets/img/12.png
 importance: 1
 category: work
 related_publications: false

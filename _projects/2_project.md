@@ -7,8 +7,7 @@ importance: 2
 category: research
 ---
 
-# Cuby and His Shadow Friend
-## A Game-Based STEAM Learning Book for Kids Ages 6-9
+# Cuby and His Shadow Friend - A Game-Based STEAM Learning Book for Kids Ages 6-9
 
 ### Introduction
 
