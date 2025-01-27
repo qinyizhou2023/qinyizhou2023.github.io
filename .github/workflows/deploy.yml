@@ -8,6 +8,7 @@ on:
     paths:
       - "assets/**"
       - "**.html"
+      - "**.bib"
       - "**.js"
       - "**.liquid"
       - "**/*.md"
