@@ -2,7 +2,7 @@
 layout: page
 title: Cuby and His Shadow Friend
 description: A Game-Based STEAM Learning Book for Kids Ages 6-9
-img: assets/img/cuby/hero.jpg
+img: /assets/img/11.png
 importance: 2
 category: research
 ---
