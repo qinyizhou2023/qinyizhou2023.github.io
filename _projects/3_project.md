@@ -4,7 +4,7 @@ title: TsinghuaExplore: Journey Through Tsinghua
 description: An AR-Driven Deep Tour Navigation System for High School Visitors
 img: assets/img/10.png
 importance: 3
-category: work
+category: UX Design
 ---
 
 # TsinghuaExplore: Journey Through Tsinghua

@@ -4,7 +4,7 @@ title: Speaking Across Time with Da Vinci
 description: An AI-powered interactive experience with historical figures
 img: /assets/img/12.png
 importance: 1
-category: work
+category: UX Design
 related_publications: false
 ---
 

@@ -1,8 +1,10 @@
 ---
-layout: distill
-title: ProductMeta
-description: Supporting Ideation in Metaphorical Product Design through Multimodal Large Models
+layout: page
 permalink: /papers/paper1/
+title: ProductMeta
+description: Project description
+---
+
 
 authors:
   - name: Qinyi Zhou

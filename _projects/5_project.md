@@ -4,7 +4,7 @@ title: Mobile ECMO
 description: A portable ECMO system for emergency scenarios
 img: assets/img/projects/8.png
 importance: 4
-category: work
+category: Product Design
 ---
 
 # Moblie ECMO: 

@@ -4,14 +4,10 @@ title: Cuby and His Shadow Friend
 description: A Game-Based STEAM Learning Book for Kids Ages 6-9
 img: /assets/img/11.png
 importance: 2
-category: work
+category: UX Design
 ---
 
-# Cuby and His Shadow Friend - A Game-Based STEAM Learning Book for Kids Ages 6-9
-
-### Introduction
-
-"Cuby and His Shadow Friend" is an embodied, game-based STEAM learning book designed to help children aged 6-9 explore concepts of light and shadow through interactive, parent-child co-reading. By using embodied learning principles, the book engages multiple senses, enhancing cognitive and emotional development through tactile, auditory, and visual interactions.
+> "Cuby and His Shadow Friend" is an embodied, game-based STEAM learning book designed to help children aged 6-9 explore concepts of light and shadow through interactive, parent-child co-reading. By using embodied learning principles, the book engages multiple senses, enhancing cognitive and emotional development through tactile, auditory, and visual interactions.
 
 
 ### Design Process
@@ -93,12 +89,14 @@ The book features six interactive scenarios that teach different aspects of ligh
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design1.png" title="**Hide and Seek**" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
+            **Hide and Seek**:
             A pop-up cloud structure with integrated sound effects teaches shadow formation. Children use a flashlight to observe how clouds block light, creating a direct connection between daily experiences and scientific principles.
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design2.png" title="Dancing Shadows" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
+            **Dancing Shadows**: 
             Through rhythmic music integration, children move a flashlight to create dancing shadows, learning about the relationship between light source movement and shadow positioning.
         </div>
     </div>
@@ -111,12 +109,14 @@ The book features six interactive scenarios that teach different aspects of ligh
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design3.png" title="**Shadow Theater**" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
+            **Shadow Theater**:   
             A pop-up theater structure with insertable geometric shapes demonstrates how light travels in straight lines. Children create various shadow patterns by manipulating shapes and observing their projections.
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design4.png" title="**Sun Bathing**" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
+            **Sun Bathing**: 
             Using a guided track system, children move a light source to simulate the sun's daily path, learning how Earth's rotation affects shadow length throughout the day.
         </div>
     </div>
@@ -128,26 +128,26 @@ The book features six interactive scenarios that teach different aspects of ligh
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design5.png" title="**Colorful Friends**" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Through an innovative track mechanism, children guide Cuby through six colored light beams, discovering how different colors combine to create white light.
+            **Colorful Friends**:
+             Through an innovative track mechanism, children guide Cuby through six colored light beams, discovering how different colors combine to create white light.
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design6.png" title="**Color Refraction**" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
+            **Color Refraction**: 
             The book's climax features a hidden prism within Cuby, allowing children to explore light refraction and spectrum formation through hands-on experimentation.
         </div>
     </div>
 </div>
-<div class="caption">
-    Left: Colorful Friends - Understanding light composition; Right: Color Refraction - Exploring light spectrum through prisms
-</div>
+
 
 
 
 
 ### Key Innovations
 
-#### 1. Multiple Embodied Interactive Designs
+**1. Multiple Embodied Interactive Designs**
 - **Interactive Contextual Learning**: Children actively control flashlight positions to observe shadows, transforming abstract concepts into tangible experiences.
 - **Multimodal Interactive Design**: Integration of tactile and auditory elements enhances the learning experience.
 - **Multi-Material Handicrafts**: DIY activities strengthen emotional connections while promoting understanding of light and shadow principles.
@@ -158,12 +158,12 @@ The book features six interactive scenarios that teach different aspects of ligh
     </div>
 </div>
 
-#### 2. Narrative Design: Learning Guided by Plots
+**2. Narrative Design: Learning Guided by Plots**
 - **Emotional Engagement**: Minimalist character design focuses attention on light and shadow phenomena
 - **Progressive Knowledge Integration**: Story complexity aligns with learning objectives
 - **Hidden Narrative Layers**: UV light reveals concealed dialogues, encouraging exploration
 
-#### 3. Low-Cost and Long-Term Utilization
+**3. Low-Cost and Long-Term Utilization**
 - Practical design optimizes space through strategic structural layout
 - Embedded structures enable varied interactions within limited page surfaces
 - Reusable elements extend the book's lifecycle
@@ -198,22 +198,75 @@ Future enhancements may include:
 - Expansion of the Cuby character into a broader educational IP
 
 ### Research Team
-**Qinyi Zhou** - Tsinghua University
-**Mengyu Wang** - University of Oxford
-**Yufei Shi** - Communication University of China
-**Zihan Xu** - Beijing University of Posts and Telecommunications
-**Yukou Lai** - University of Cambridge
+- **Qinyi Zhou** - Tsinghua University
+- **Mengyu Wang** - University of Oxford
+- **Yufei Shi** - Communication University of China
+- **Zihan Xu** - Beijing University of Posts and Telecommunications
+- **Yukou Lai** - University of Cambridge
 
-### Awards
+<div class="awards-section">
+    <h3><i class="fas fa-trophy"></i> Awards</h3>
 
-🏆 **Gold Award** - Future Design Education Competition  
-*August 2023*  
-Hosted by UNESCO Institute of Information Technology and others  
-[Watch Presentation](https://www.bilibili.com/video/BV1hi421o7gW/)
+    <div class="award-item">
+        <p>🏆 <strong>Gold Award</strong> - Future Design Education Competition<br>
+        <span class="award-date">August 2023</span><br>
+        <span class="award-host">Hosted by UNESCO Institute of Information Technology and others</span><br>
+        <a href="https://www.bilibili.com/video/BV1hi421o7gW/" class="award-link"><i class="fas fa-play-circle"></i> Watch Presentation</a></p>
+    </div>
 
-🥈 **Silver Award** - Singapore Art Design Competition  
-*August 2024*
+    <div class="award-item">
+        <p>🥈 <strong>Silver Award</strong> - Singapore Art Design Competition<br>
+        <span class="award-date">August 2024</span></p>
+    </div>
+</div>
 
-### Publications
-- 👓 The research has been published in Springer's book series.
+<div class="publications-section">
+    <h3><i class="fas fa-book"></i> Publications</h3>
+    
+    <div class="pub-item">
+        <p>📚 The research has been published in Springer's book series.</p>
+    </div>
+</div>
+
+<style>
+.awards-section, .publications-section {
+    margin: 20px 0;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.awards-section {
+    background-color: rgba(255, 215, 0, 0.1);
+    border-left: 4px solid #FFD700;
+}
+
+.publications-section {
+    background-color: rgba(65, 105, 225, 0.1);
+    border-left: 4px solid #4169E1;
+}
+
+.award-item, .pub-item {
+    margin: 15px 0;
+}
+
+.award-date {
+    color: #666;
+    font-style: italic;
+}
+
+.award-host {
+    color: #555;
+}
+
+.award-link {
+    display: inline-block;
+    margin-top: 5px;
+    color: #1976d2;
+    text-decoration: none;
+}
+
+.award-link:hover {
+    text-decoration: underline;
+}
+</style>
 

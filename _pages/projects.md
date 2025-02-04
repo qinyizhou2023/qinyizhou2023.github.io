@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
-description: My projects during my BS and MS, mostly in the field of interaction design, product design.
+description: A growing collection of your cool projects.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [Product Design, UX Design]
 horizontal: false
 ---
 

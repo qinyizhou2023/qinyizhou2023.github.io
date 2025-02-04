@@ -4,7 +4,7 @@ title: Future Family VR Cabin
 description: Multi-sensory Experience Design
 img: assets/img/6.png
 importance: 5
-category: work
+category: Product Design
 ---
 
 # Future Family VR Cabin Design Based on Multi-sensory Experience

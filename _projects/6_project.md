@@ -4,7 +4,7 @@ title: Wearable Product Design Research Based on AIGC
 description: Exploring the integration of AI in wearable design
 img: assets/img/7.png
 importance: 5
-category: work
+category: Product Design
 ---
 
 # Wearable Product Design Research Based on AIGC
