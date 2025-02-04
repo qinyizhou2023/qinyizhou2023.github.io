@@ -8,10 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Academy of Arts & Design</p>
-    <p>Tsinghua University</p>
-    <p>Beijing, China</p>
-
+    <p><a href="assets/pdf/CV_2024.9.30.pdf"><i class="fas fa-file-pdf"></i> CV</a></p>
+    <p><a href="mailto:zhouqy22@mails.tsinghua.edu.cn"><i class="fas fa-envelope"></i> Email</a></p>
+    <p><a href="https://scholar.google.com/citations?user=7adtJAkAAAAJ&hl=zh-CN"><i class="ai ai-google-scholar"></i> Google Scholar</a></p>
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
