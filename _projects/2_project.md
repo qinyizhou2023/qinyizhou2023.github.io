@@ -197,15 +197,23 @@ Future enhancements may include:
 - Optimization of production costs and components
 - Expansion of the Cuby character into a broader educational IP
 
-### Publications
-This case study has been published in Springer's book series.
-
-
-
-
 ### Research Team
-- **Qinyi Zhou** - Tsinghua University
-- **Mengyu Wang** - University of Oxford
-- **Yufei Shi** - Communication University of China
-- **Zihan Xu** - Beijing University of Posts and Telecommunications
-- **Yukou Lai** - University of Cambridge
+**Qinyi Zhou** - Tsinghua University
+**Mengyu Wang** - University of Oxford
+**Yufei Shi** - Communication University of China
+**Zihan Xu** - Beijing University of Posts and Telecommunications
+**Yukou Lai** - University of Cambridge
+
+### Awards
+
+🏆 **Gold Award** - Future Design Education Competition  
+*August 2023*  
+Hosted by UNESCO Institute of Information Technology and others  
+[Watch Presentation](https://www.bilibili.com/video/BV1hi421o7gW/)
+
+🥈 **Silver Award** - Singapore Art Design Competition  
+*August 2024*
+
+### Publications
+- 👓 The research has been published in Springer's book series.
+

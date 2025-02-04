@@ -1,80 +1,178 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Mobile ECMO
+description: A portable ECMO system for emergency scenarios
+img: assets/img/projects/8.png
+importance: 4
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+# Moblie ECMO: 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/1background.png" title="Mobile ECMO System" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+## Background
+
+ECMO (Extracorporeal Membrane Oxygenation) is a life support system that temporarily takes over heart and lung functions. Current ECMO systems are bulky and complex, limiting their use in emergency scenarios.
+
+## Problem Statement
+
+How might we design a portable ECMO system that can be effectively used in emergency scenarios while maintaining safety and reliability?
+
+
+
+## Research Process
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/2process.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/3.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/4designprocess.png" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
+## Solution
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+**Key Features:**
+1. Compact and portable design
+2. Intuitive user interface
+3. Enhanced safety mechanisms
+4. Quick deployment system
+5. Extended battery life
+6. Remote monitoring capabilities
+
+### Story Board
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/5storyboard.png" title="The story board illustrating how " class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
 
-{% endraw %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/6storyboard.png" title="The story board illustrating how " class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+### Interface Design
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/7interface.png" title="The story board illustrating how " class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/8interface.png" title="The story board illustrating how " class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/9interface.png" title="The story board illustrating how " class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/10interface.png" title="The story board illustrating how " class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+### Using Scenario
+
+1. **Carry to patient site**
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/11using.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/11using2.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+2. **Field intubation**
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/12using1.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/12using2.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+3. **Transfer patient to hospital**
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/13using1.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/13using2.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+### Detail Design
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/14detaildesign.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/15detaildesign.png"  class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+
+## Exhibitions & Awards
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/exhibition.png" title="Youth Design 100 Exhibition" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+### Patents
+- 🏆 **Design Patent**  
+  Mobile Extracorporeal Membrane Oxygenation (ECMO)
+
+- 🏆 **Patent for Utility Models**  
+  Mobile Extracorporeal Membrane Oxygenation (ECMO)
+
+### Awards
+- 🎖️ **Excellence Award**  
+  2022 Asian New Generation Designer
+
+- 🎖️ **Outstanding Graduation Design**  
+  Tsinghua University, 2022
+
+### Exhibitions
+
+- 🎨 **Youth Design 100 Exhibition**  
+  June 2022
+
+- 🖼 **Graduate Exhibition in Tsinghua University**
+    Tsinghua University, 2022
+    [View Online Exhibition](https://exhibition.ad.tsinghua.edu.cn/2022/))
+
+
