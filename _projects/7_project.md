@@ -61,48 +61,63 @@ With the development of VR technology and increasing demand for immersive experi
     </div>
 </div>
 
-## Solution
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/vrpod/sketch4.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-### Features:
+## Solution
+**Features:**
 1. Multi-sensory feedback system
 2. Family-friendly interface
 3. Safe and comfortable environment
 4. Interactive social elements
 
-## Experience Scenarios
-
-<div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/vrpod/scenario1.png" title="Family Gaming" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/vrpod/scenario2.png" title="Educational Experience" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-## Technical Details
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/vrpod/technical.png" title="Technical Specifications" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-### Key Components:
+**Key Components:**
 - Advanced VR headset integration
 - Multi-sensory feedback modules
 - Safety monitoring systems
 - Interactive control interface
 
-## Impact & Future Development
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/vrpod/impact.png" title="Project Impact" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/vrpod/productdisplay.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-- Enhanced family entertainment experiences
-- New possibilities for remote connection
-- Educational applications
-- Future expansion potential
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/vrpod/productdisplay2.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/vrpod/productdisplay4.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/vrpod/productdisplay6.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/vrpod/productdisplay7.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/vrpod/productdisplay8.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/vrpod/productdisplay9.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
