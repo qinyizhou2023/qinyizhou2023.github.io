@@ -9,7 +9,7 @@ category: Product Design
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/7.png" title="AIGC Wearable Design Overview" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/7.png" title="AIGC Wearable Design Overview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -21,7 +21,7 @@ The integration of Artificial Intelligence Generated Content (AIGC) in product d
 ## Research Methods
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/aigc/1.png" title="AIGC Wearable Design Overview" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/aigc/1.png" title="AIGC Wearable Design Overview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -30,7 +30,7 @@ The integration of Artificial Intelligence Generated Content (AIGC) in product d
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/aigc/2.png" title="AIGC Wearable Design Overview" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/aigc/2.png" title="AIGC Wearable Design Overview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -39,13 +39,13 @@ The integration of Artificial Intelligence Generated Content (AIGC) in product d
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/aigc/3.png" title="AIGC Wearable Design Overview" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/aigc/3.png" title="AIGC Wearable Design Overview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-### Key Findings:
+**Key Findings**
 1. More specific and creative contents are needed in the design process.
-2. Designers should 
+2. Designers should utilize AI's content selectively.
 
 <!-- ## Future Implications
 - New workflows for product designers

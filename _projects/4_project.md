@@ -7,28 +7,15 @@ importance: 3
 category: UX Design
 ---
 
-# SugarBump: Sugar control system for pregnancy
+> Gestational diabetes mellitus (GDM) affects approximately 6-9% of pregnancies in the US. Proper sugar control during pregnancy is crucial for both mother and baby's health. However, current sugar monitoring methods can be cumbersome and stressful for pregnant women.
 
-## Background
-
-Gestational diabetes mellitus (GDM) affects approximately 6-9% of pregnancies in the US. Proper sugar control during pregnancy is crucial for both mother and baby's health. However, current sugar monitoring methods can be cumbersome and stressful for pregnant women.
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/sugar/cover.png" title="SugarBump Cover" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-## Design Challenge
+**Design Challenge**
 
 How might we help pregnant women with gestational diabetes better monitor and control their blood sugar levels while reducing their stress and anxiety?
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/9.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
-## Research & Insights
+
+## Design Research
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
