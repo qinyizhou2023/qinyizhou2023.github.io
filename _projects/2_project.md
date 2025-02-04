@@ -88,53 +88,59 @@ Semi-structured interviews were conducted to gather insights about:
 
 The book features six interactive scenarios that teach different aspects of light and shadow physics. Each interaction is designed to transform abstract physics concepts into tangible, playful experiences that align with children's natural curiosity and learning patterns.
 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design1.png" title="Hide and Seek" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design1.png" title="**Hide and Seek**" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            A pop-up cloud structure with integrated sound effects teaches shadow formation. Children use a flashlight to observe how clouds block light, creating a direct connection between daily experiences and scientific principles.
+        </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design2.png" title="Dancing Shadows" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Through rhythmic music integration, children move a flashlight to create dancing shadows, learning about the relationship between light source movement and shadow positioning.
+        </div>
     </div>
 </div>
-<div class="caption">
-    Left: Hide and Seek - Cloud shadows demonstrate light blockage; Right: Dancing Shadows - Musical interaction with moving light
-</div>
 
-1. **Hide and Seek**: A pop-up cloud structure with integrated sound effects teaches shadow formation. Children use a flashlight to observe how clouds block light, creating a direct connection between daily experiences and scientific principles.
 
-2. **Dancing Shadows**: Through rhythmic music integration, children move a flashlight to create dancing shadows, learning about the relationship between light source movement and shadow positioning.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design3.png" title="Shadow Theater" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design3.png" title="**Shadow Theater**" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            A pop-up theater structure with insertable geometric shapes demonstrates how light travels in straight lines. Children create various shadow patterns by manipulating shapes and observing their projections.
+        </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design4.png" title="Sun Bathing" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design4.png" title="**Sun Bathing**" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Using a guided track system, children move a light source to simulate the sun's daily path, learning how Earth's rotation affects shadow length throughout the day.
+        </div>
     </div>
 </div>
-<div class="caption">
-    Left: Shadow Theater - Exploring light's straight-line travel; Right: Sun Bathing - Understanding shadow length changes
-</div>
 
-3. **Shadow Theater**: A pop-up theater structure with insertable geometric shapes demonstrates how light travels in straight lines. Children create various shadow patterns by manipulating shapes and observing their projections.
 
-4. **Sun Bathing**: Using a guided track system, children move a light source to simulate the sun's daily path, learning how Earth's rotation affects shadow length throughout the day.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design5.png" title="Colorful Friends" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design5.png" title="**Colorful Friends**" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Through an innovative track mechanism, children guide Cuby through six colored light beams, discovering how different colors combine to create white light.
+        </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design6.png" title="Color Refraction" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/design6.png" title="**Color Refraction**" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            The book's climax features a hidden prism within Cuby, allowing children to explore light refraction and spectrum formation through hands-on experimentation.
+        </div>
     </div>
 </div>
 <div class="caption">
     Left: Colorful Friends - Understanding light composition; Right: Color Refraction - Exploring light spectrum through prisms
 </div>
-
-5. **Cuby'sColorful Friends**: Through an innovative track mechanism, children guide Cuby through six colored light beams, discovering how different colors combine to create white light.
-
-6. **Color Refraction**: The book's climax features a hidden prism within Cuby, allowing children to explore light refraction and spectrum formation through hands-on experimentation.
 
 
 
@@ -193,10 +199,6 @@ Future enhancements may include:
 
 ### Publications
 This case study has been published in Springer's book series.
-
-
-
-
 
 
 

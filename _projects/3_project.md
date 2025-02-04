@@ -15,10 +15,10 @@ Our Final Video: Amy, a high school junior, has long aspired to attend Tsinghua 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/3.png" title="Design Process" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/tsinghua/3.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/4.png" title="User Research" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/tsinghua/4.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -37,59 +37,166 @@ Our Final Video: Amy, a high school junior, has long aspired to attend Tsinghua 
 {% include figure.liquid path="assets/img/projects/tsinghua/8.png" title="Key Features" class="img-fluid rounded z-depth-1" %}
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/9.png" title="Interactive Experience" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/10.png" title="Navigation System" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/11.png" title="User Testing" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/12.png" title="Feedback Analysis" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/3.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/13.png" title="Implementation Results" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/14.png" title="User Engagement" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/4.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/15.png" title="Technical Architecture" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/16.png" title="System Integration" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/5.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/17.png" title="Project Outcomes" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/18.png" title="Impact Assessment" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/6.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/19.png" title="Future Development" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/20.png" title="Next Steps" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/7.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-{% include figure.liquid path="assets/img/projects/tsinghua/21.png" title="Project Summary" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/8.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/9.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/10.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/11.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/12.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/13.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/14.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/15.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/16.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/17.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/18.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/19.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/20.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 
+
+## Background Informations 
+
+### Huiyin Lin
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/huiyinlin.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <p>
+        Lin Huiyin, an esteemed Chinese architect and poet born in 1904, is closely associated with Tsinghua University, where she made significant contributions to architecture and cultural preservation. As the first female architect in modern China, Lin, alongside her husband Liang Sicheng, played a pivotal role in founding the architectural department at Tsinghua. Her work at the university went beyond teaching; she was deeply involved in historical research and architectural restoration, preserving China's rich architectural heritage. For students and admirers of Chinese culture alike, Lin Huiyin represents a blend of artistic creativity and cultural dedication, embodying the spirit of intellectual exploration and cultural reverence that Tsinghua University strives to instill in its community. Her legacy at Tsinghua is a testament to her profound impact on both the field of architecture and the preservation of Chinese historical sites.
+        </p>
+    </div>
+</div>
+<!-- 
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/Untitled.png" title="Huiyin Lin and her " class="img-fluid rounded z-depth-1" %}
+    </div>
+</div> -->
+
+### Ziqing Zhu
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/Untitled(2).png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <p>
+        Zhu Ziqing, a prominent Chinese writer and poet born in 1898, is best known for his lyrical essay "Lotus Pond Moonlight," which beautifully captures the serene scenery of Tsinghua's lotus pond. This work is emblematic of Zhu's ability to find deep philosophical and emotional meaning in natural landscapes, a quality that has made his writings a staple in Chinese middle school literature curricula. For students, his work not only showcases the elegance of the Chinese language but also imparts traditional cultural values and aesthetics, fostering an appreciation for nature and a love for the arts. Zhu Ziqing's contributions significantly bridge the gap between young minds and the rich legacy of Chinese literature.
+        </p>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/Untitled(1).png" title="Statue of Zhu Ziqing overlooking the Lotus Pond at Tsinghua Garden" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+## Behind the Scene
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/21.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
