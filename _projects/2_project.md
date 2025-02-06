@@ -182,17 +182,6 @@ The book features six interactive scenarios that teach different aspects of ligh
 - Embedded structures enable varied interactions within limited page surfaces
 - Reusable elements extend the book's lifecycle
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuby/interaction1.jpg" title="Shadow Theater" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuby/interaction2.jpg" title="Light Exploration" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Interactive features demonstrating shadow theater and light exploration activities
-</div>
 
 ### Educational Impact
 
