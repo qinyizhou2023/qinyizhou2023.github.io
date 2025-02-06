@@ -11,7 +11,7 @@ category: UX Design
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/T_MXgwThWAI" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/T_MXgwThWAI" %}
     </div>
 </div>
 <div class="caption">

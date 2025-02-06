@@ -623,3 +623,6 @@ jsonresume:
   - languages
   - interests
   - references
+
+content_security_policy:
+  default-src: 'self' https://www.youtube.com

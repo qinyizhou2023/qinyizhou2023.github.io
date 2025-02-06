@@ -99,7 +99,7 @@ The fashion capital welcomed me with its blend of historical grandeur and modern
         {% include figure.liquid loading="eager" path="assets/img/blog_switzerlan1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 
-### Denmark ��
+### Denmark 🇩🇰
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -199,5 +199,3 @@ A city where art comes alive in architecture and culture.
         {% include figure.liquid loading="eager" path="assets/img/blog_Barcelona1.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-
