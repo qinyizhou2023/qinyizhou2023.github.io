@@ -11,7 +11,13 @@ category: UX Design
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/T_MXgwThWAI" %}
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe 
+                class="embed-responsive-item" 
+                src="https://www.youtube.com/embed/T_MXgwThWAI" 
+                allowfullscreen>
+            </iframe>
+        </div>
     </div>
 </div>
 <div class="caption">
