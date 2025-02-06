@@ -14,9 +14,16 @@ related_publications: false
 
 This interdisciplinary project creates an innovative dialogue between Leonardo da Vinci and modern students, demonstrating the seamless integration of art and technology. Through advanced AI technologies, we bridge centuries of knowledge exchange.
 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/4Mi8C2MqpOk" class="img-fluid rounded z-depth-1" %}
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe 
+                class="embed-responsive-item" 
+                src="https://www.youtube.com/embed/4Mi8C2MqpOk" 
+                allowfullscreen>
+            </iframe>
+        </div>
     </div>
 </div>
 <div class="caption">

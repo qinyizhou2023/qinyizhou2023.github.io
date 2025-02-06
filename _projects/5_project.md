@@ -12,10 +12,21 @@ category: Product Design
     </div>
 </div>
 
-### Video Highlights
 
-{% include video.liquid path="https://youtu.be/SiXLAmqYthw" class="img-fluid rounded z-depth-1" %}
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe 
+                class="embed-responsive-item" 
+                src="https://www.youtube.com/embed/SiXLAmqYthw" 
+                allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+</div>
 <div class="caption">
+    Project demonstration video
 </div>
 
 ## Background

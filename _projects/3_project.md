@@ -7,16 +7,21 @@ importance: 3
 category: UX Design
 ---
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/tcsde8dr-PA" class="img-fluid rounded z-depth-1" %}
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe 
+                class="embed-responsive-item" 
+                src="https://www.youtube.com/embed/tcsde8dr-PA" 
+                allowfullscreen>
+            </iframe>
+        </div>
     </div>
 </div>
 <div class="caption">
     Project demonstration video
 </div>
+
 
 
 **Our Final Video**: Amy, a high school junior, has long aspired to attend Tsinghua University. Today marks her first journey from her hometown to Beijing to visit this dream university. As she strolls to the renowned 'Lotus Pond Moonlight' landmark at Tsinghua University, she opens her phone. At that moment, the GPS precisely activates a marvelous AR experience. On the screen, the virtual figure of the literary master Zhu Ziqing seems to traverse time and space, narrating his special connection with the Lotus Pond Moonlight. Amy recalls how this master beautifully depicted 'Lotus Pond Moonlight' in her textbooks. The AR technology animates the lotus leaves vividly, almost reenacting Zhu Ziqing's walk through the pond back in the day, immersing Amy in an experience as if she were right there, amidst the scenery.
