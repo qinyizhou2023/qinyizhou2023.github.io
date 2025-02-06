@@ -83,117 +83,58 @@ The project leverages state-of-the-art AI technologies:
 
 ## Exhibitions & Awards
 
-<div class="row">
-  <div class="col-md-6 mb-4">
-    <div class="card h-100 hoverable">
-      <div class="card-body">
-        <h3 class="card-title"><i class="fas fa-trophy text-warning"></i> 📌 Design Patent</h3>
-        <p class="card-text">Mobile Extracorporeal Membrane Oxygenation (ECMO)</p>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-6 mb-4">
-    <div class="card h-100 hoverable">
-      <div class="card-body">
-        <h3 class="card-title"><i class="fas fa-trophy text-warning"></i> 📌 Patent for Utility Models</h3>
-        <p class="card-text">Mobile Extracorporeal Membrane Oxygenation (ECMO)</p>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-6 mb-4">
-    <div class="card h-100 hoverable">
-      <div class="card-body">
-        <h3 class="card-title"><i class="fas fa-award text-success"></i> 🎖️ Excellence Award</h3>
-        <p class="card-text">2022 Asian New Generation Designer</p>
-      </div>
+<div class="awards-section">
+    <h3><i class="fas fa-trophy"></i> Exhibitions & Awards</h3>
+
+    <div class="award-item">
+        <p>📌 <strong>Design Patent</strong> - Mobile Extracorporeal Membrane Oxygenation (ECMO)</p>
     </div>
 
-  </div>
-  <div class="col-md-6 mb-4">
-    <div class="card h-100 hoverable">
-      <div class="card-body">
-        <h3 class="card-title"><i class="fas fa-award text-success"></i> 🎖️ Outstanding Graduation Design</h3>
-        <p class="card-text">Tsinghua University, 2022</p>
-      </div>
-
+    <div class="award-item">
+        <p>📌 <strong>Patent for Utility Models</strong> - Mobile Extracorporeal Membrane Oxygenation (ECMO)</p>
     </div>
-  </div>
-  <div class="col-md-6 mb-4">
-    <div class="card h-100 hoverable">
-      <div class="card-body">
-        <h3 class="card-title"><i class="fas fa-palette text-info"></i> 🖼️ Youth Design 100 Exhibition</h3>
-        <p class="card-text">June 2022</p>
-      </div>
 
+    <div class="award-item">
+        <p>🎖️ <strong>Excellence Award</strong> - 2022 Asian New Generation Designer</p>
     </div>
-  </div>
-  <div class="col-md-6 mb-4">
-    <div class="card h-100 hoverable">
-      <div class="card-body">
-        <h3 class="card-title"><i class="fas fa-images text-primary"></i> 🖼️ Graduate Exhibition in Tsinghua University</h3>
-        <p class="card-text">Tsinghua University, 2022</p>
 
-        <a href="https://exhibition.ad.tsinghua.edu.cn/2022/" class="btn btn-primary" target="_blank">View Online Exhibition</a>
-      </div>
+    <div class="award-item">
+        <p>🎖️ <strong>Outstanding Graduation Design</strong> - Tsinghua University, 2022</p>
     </div>
-  </div>
+
+    <div class="award-item">
+        <p>🖼️ <strong>Youth Design 100 Exhibition</strong> - June 2022</p>
+    </div>
+
+    <div class="award-item">
+        <p>🖼️ <strong>Graduate Exhibition in Tsinghua University</strong> - Tsinghua University, 2022<br>
+        <a href="https://exhibition.ad.tsinghua.edu.cn/2022/" class="award-link"><i class="fas fa-play-circle"></i> View Online Exhibition</a></p>
+    </div>
 </div>
 
 <style>
-  .card {
-    border: 1px solid #e0e0e0;
+.awards-section {
+    margin: 20px 0;
+    padding: 15px;
     border-radius: 8px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    animation: fadeIn 0.5s ease;
-  }
-  .card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  }
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-  .card-title {
-    font-size: 1.25rem;
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-  }
-  .card-text {
-    font-size: 1rem;
-    color: #666;
-  }
-  .btn-primary {
-    background-color: #007bff;
-    border: none;
-    padding: 0.5rem 1rem;
-    border-radius: 4px;
-    color: white;
-    text-decoration: none;
+    background-color: rgba(255, 215, 0, 0.1);
+    border-left: 4px solid #FFD700;
+}
+
+.award-item {
+    margin: 15px 0;
+}
+
+.award-link {
     display: inline-block;
-    margin-top: 1rem;
-  }
-  .btn-primary:hover {
-    background-color: #0056b3;
-  }
-  .text-warning {
-    color: #ffc107;
-  }
-  .text-success {
-    color: #28a745;
-  }
-  .text-info {
-    color: #17a2b8;
-  }
-  .text-primary {
-    color: #007bff;
-  }
+    margin-top: 5px;
+    color: #1976d2;
+    text-decoration: none;
+}
+
+.award-link:hover {
+    text-decoration: underline;
+}
 </style>
 
 
