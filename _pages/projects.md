@@ -9,6 +9,13 @@ display_categories: [UX Design, Product Design]
 horizontal: false
 ---
 
+<!-- 在文件开头添加样式 -->
+<style>
+.card-title {
+    font-size: 1.2rem !important;  /* 使用 !important 确保样式被应用 */
+}
+</style>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

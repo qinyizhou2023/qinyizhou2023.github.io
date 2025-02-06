@@ -7,34 +7,52 @@ importance: 3
 category: UX Design
 ---
 
-# TsinghuaExplore: Journey Through Tsinghua
 
-Our Final Video: Amy, a high school junior, has long aspired to attend Tsinghua University. Today marks her first journey from her hometown to Beijing to visit this dream university. As she strolls to the renowned 'Lotus Pond Moonlight' landmark at Tsinghua University, she opens her phone. At that moment, the GPS precisely activates a marvelous AR experience. On the screen, the virtual figure of the literary master Zhu Ziqing seems to traverse time and space, narrating his special connection with the Lotus Pond Moonlight. Amy recalls how this master beautifully depicted 'Lotus Pond Moonlight' in her textbooks. The AR technology animates the lotus leaves vividly, almost reenacting Zhu Ziqing's walk through the pond back in the day, immersing Amy in an experience as if she were right there, amidst the scenery.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://youtu.be/tcsde8dr-PA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Project demonstration video
+</div>
+
+
+**Our Final Video**: Amy, a high school junior, has long aspired to attend Tsinghua University. Today marks her first journey from her hometown to Beijing to visit this dream university. As she strolls to the renowned 'Lotus Pond Moonlight' landmark at Tsinghua University, she opens her phone. At that moment, the GPS precisely activates a marvelous AR experience. On the screen, the virtual figure of the literary master Zhu Ziqing seems to traverse time and space, narrating his special connection with the Lotus Pond Moonlight. Amy recalls how this master beautifully depicted 'Lotus Pond Moonlight' in her textbooks. The AR technology animates the lotus leaves vividly, almost reenacting Zhu Ziqing's walk through the pond back in the day, immersing Amy in an experience as if she were right there, amidst the scenery.
 
 {% include figure.liquid path="assets/img/projects/tsinghua/2.png" title="System Overview" class="img-fluid rounded z-depth-1" %}
 
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/3.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/4.png" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/3.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/5.png" title="Feature Development" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/6.png" title="AR Implementation" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/tsinghua/7.png" title="User Interface" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/4.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-{% include figure.liquid path="assets/img/projects/tsinghua/8.png" title="Key Features" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/5.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/6.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/7.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <div class="row">
     <div class="col-sm-12 mt-3 mt-md-0">
@@ -166,18 +184,13 @@ Our Final Video: Amy, a high school junior, has long aspired to attend Tsinghua 
         </p>
     </div>
 </div>
-<!-- 
-<div class="row">
-    <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/Untitled.png" title="Huiyin Lin and her " class="img-fluid rounded z-depth-1" %}
-    </div>
-</div> -->
+
 
 ### Ziqing Zhu
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/Untitled(2).png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/Untitled (2).png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         <p>
@@ -189,7 +202,7 @@ Our Final Video: Amy, a high school junior, has long aspired to attend Tsinghua 
 
 <div class="row">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/Untitled(1).png" title="Statue of Zhu Ziqing overlooking the Lotus Pond at Tsinghua Garden" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/Untitled (1).png" title="Statue of Zhu Ziqing overlooking the Lotus Pond at Tsinghua Garden" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -198,5 +211,5 @@ Our Final Video: Amy, a high school junior, has long aspired to attend Tsinghua 
 <div class="row">
     <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/21.png" class="img-fluid rounded z-depth-1" %}
-    </div>
+  </div>
 </div>

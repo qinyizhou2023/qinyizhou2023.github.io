@@ -9,6 +9,14 @@ category: UX Design
 
 > "Cuby and His Shadow Friend" is an embodied, game-based STEAM learning book designed to help children aged 6-9 explore concepts of light and shadow through interactive, parent-child co-reading. By using embodied learning principles, the book engages multiple senses, enhancing cognitive and emotional development through tactile, auditory, and visual interactions.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://youtu.be/T_MXgwThWAI" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Project demonstration video
+</div>
 
 ### Design Process
 
