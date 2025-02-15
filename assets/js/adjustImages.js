@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll(".row").forEach(t=>{const e=t.querySelectorAll(".img-fluid");let n=Infinity;e.forEach(t=>{const e=t.naturalHeight/t.naturalWidth*t.clientWidth;e<n&&(n=e)}),e.forEach(t=>{t.style.height=`${n}px`,t.style.objectFit="cover"})})});
