@@ -202,4 +202,4 @@ A city where art comes alive in architecture and culture.
     </div>
 </div>
 
-
+<script src="/assets/js/adjustImages.js"></script>
