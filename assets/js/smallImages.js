@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("img").forEach(t=>{t.style.maxWidth="100%",t.style.height="auto",t.addEventListener("load",()=>{const e=t.naturalWidth;t.naturalHeight;t.style.width=e>800?"800px":`${e}px`,t.style.height="auto"})})});
