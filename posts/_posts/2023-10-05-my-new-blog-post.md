@@ -7,7 +7,7 @@ tags: [travel europe summer]
 ---
 
 
-In the summer of 2023, I had the changce to embark on two remarkable journeys across Europe. Each trip offered unique experiences and insights, creating memories that will last a li
+In the summer of 2023, I had the chance to embark on two remarkable journeys across Europe. Each trip offered unique experiences and insights, creating memories that will last a lifetime.
 ## First Journey: 
 <!-- > info "Travel Period"
 > Early Summer 2023 -->
@@ -90,14 +90,15 @@ The fashion capital welcomed me with its blend of historical grandeur and modern
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_switzerlan2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-
 </div>
+<div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_switzerlan.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_switzerlan1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
 
 ### Denmark 🇩🇰
 

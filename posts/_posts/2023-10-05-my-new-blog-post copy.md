@@ -15,8 +15,8 @@ Very nice to hear from the experts in the field!
     <div class="col-sm-6 mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/blog_ms_tab2.jpg" class="img-fluid rounded z-depth-1" %}      
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_ms_tab1.jpg" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_ms_tab3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -24,8 +24,8 @@ Very nice to hear from the experts in the field!
      <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_ms_tab4.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog_ms_tab3.jpg" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog_ms_tab1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -33,16 +33,14 @@ Very nice to hear from the experts in the field!
 > 2024.11.19
 I participated in the MSRA Hackathon 2024, where I won the honorable mention!
 
-<div class="col-sm-4 mt-3 mt-md-0">
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_ms_hack1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-     <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_ms_hack3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-
-<div class="row">
-     <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_ms_hack2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -51,7 +49,7 @@ I participated in the MSRA Hackathon 2024, where I won the honorable mention!
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_ms_hack4.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-     <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog_ms_hack5.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -64,7 +62,7 @@ The most excited thing is that I met many nice friends in MSRA. They are:
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
         <ul>
-            <li>Feiyang Chen</li>
+            <li><a href="https://ipads.se.sjtu.edu.cn/zh/pub/members/feiyang_chen/">Feiyang Chen</a></li>
             <li><a href="https://xinjie-shen.com/">Xinjie Shen</a></li>
             <li>Yuxuan Ren</li>
             <li>Haoyu Chi</li>

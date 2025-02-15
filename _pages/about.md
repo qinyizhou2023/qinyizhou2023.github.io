@@ -26,7 +26,7 @@ My research focuses on:
 - How can we design systems/theory to better support human creativity via human-AI co-creation.
 
 📫 Get in Touch: 
-I'm always interested in collaborating with researchers who are good at AI, phycology. Please feel free to reach out via [email](mailto:qinyizhou@tsinghua.edu.cn).
+I'm always interested in collaborating with researchers who are good at AI, Psychology. Please feel free to reach out via [email](mailto:qinyizhou@tsinghua.edu.cn).
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
