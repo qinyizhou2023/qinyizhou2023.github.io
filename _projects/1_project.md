@@ -8,6 +8,8 @@ category: UX Design
 related_publications: false
 ---
 
+<script src="/assets/js/optimizeImages.js"></script>
+
 > "Speaking Across Time with Da Vinci" explores the fusion of art and science through AI, enabling meaningful dialogues between historical wisdom and contemporary perspectives.
 
 ## Project Overview
@@ -77,11 +79,9 @@ The project leverages state-of-the-art AI technologies:
 - Jie Deng* - *Technical Implementation*
 - Chenzhuo Xiang* - *User Experience Design*
 - Qingyuan Shi* - *Digital Innovation*
-
-<div class="note">
 * indicates corresponding author
 
-## Exhibitions & Awards
+
 
 <div class="awards-section">
     <h3><i class="fas fa-trophy"></i> Exhibitions & Awards</h3>
