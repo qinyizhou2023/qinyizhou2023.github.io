@@ -187,4 +187,5 @@ How might we design a portable ECMO system that can be effectively used in emerg
     
     [View Online Exhibition](https://exhibition.ad.tsinghua.edu.cn/2022/))
 
+<script src="/assets/js/smallImages.js"></script>
 

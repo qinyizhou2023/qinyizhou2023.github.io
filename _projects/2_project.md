@@ -273,3 +273,4 @@ Future enhancements may include:
 }
 </style>
 
+<script src="/assets/js/smallImages.js"></script>

@@ -202,5 +202,5 @@ A city where art comes alive in architecture and culture.
     </div>
 </div>
 
-<script src="/assets/js/optimizeImages.js"></script>
+<script src="/assets/js/smallImages.js"></script>
 <script src="/assets/js/adjustImages.js"></script>

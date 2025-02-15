@@ -218,3 +218,5 @@ category: UX Design
         {% include figure.liquid loading="eager" path="assets/img/projects/tsinghua/21.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+
+<script src="/assets/js/smallImages.js"></script>

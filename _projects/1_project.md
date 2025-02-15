@@ -8,7 +8,7 @@ category: UX Design
 related_publications: false
 ---
 
-<script src="/assets/js/optimizeImages.js"></script>
+
 
 > "Speaking Across Time with Da Vinci" explores the fusion of art and science through AI, enabling meaningful dialogues between historical wisdom and contemporary perspectives.
 
@@ -138,3 +138,4 @@ The project leverages state-of-the-art AI technologies:
 </style>
 
 
+<script src="/assets/js/smallImages.js"></script>

@@ -74,7 +74,7 @@ The most excited thing is that I met many nice friends in MSRA. They are:
     </div>
 </div>
 
-<script src="/assets/js/optimizeImages.js"></script>
+<script src="/assets/js/smallImages.js"></script>
 <script src="/assets/js/adjustImages.js"></script>
 
 
