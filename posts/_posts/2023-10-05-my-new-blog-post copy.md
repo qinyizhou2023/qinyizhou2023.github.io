@@ -73,3 +73,5 @@ The most excited thing is that I met many nice friends in MSRA. They are:
         {% include figure.liquid loading="eager" path="assets/img/blog_ms_fd.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<script src="/assets/js/adjustImages.js"></script>
