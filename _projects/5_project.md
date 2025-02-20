@@ -6,12 +6,6 @@ img: assets/img/8.png
 importance: 4
 category: Product Design
 ---
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/8.png" title="Mobile ECMO System" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 
 
 <div class="row">
@@ -29,7 +23,7 @@ category: Product Design
     Project demonstration video
 </div>
 
-## Background
+## Background： What is ECMO?
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/ecmo/1background.png" title="Mobile ECMO System" class="img-fluid rounded z-depth-1" %}
@@ -188,4 +182,5 @@ How might we design a portable ECMO system that can be effectively used in emerg
     [View Online Exhibition](https://exhibition.ad.tsinghua.edu.cn/2022/))
 
 <script src="/assets/js/smallImages.js"></script>
+<script src="/assets/js/adjustImages.js"></script>
 

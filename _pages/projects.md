@@ -14,6 +14,16 @@ horizontal: false
 .card-title {
     font-size: 1.2rem !important;  /* 使用 !important 确保样式被应用 */
 }
+
+.card {
+    margin-bottom: 20px; /* 增加卡片之间的垂直间距 */
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap; /* 确保卡片在行中正确换行 */
+    margin-bottom: 20px; /* 增加行之间的间距 */
+}
 </style>
 
 <!-- pages/projects.md -->

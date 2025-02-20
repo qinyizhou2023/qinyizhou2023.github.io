@@ -121,3 +121,6 @@ With the development of VR technology and increasing demand for immersive experi
         {% include figure.liquid loading="eager" path="assets/img/projects/vrpod/productdisplay9.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<script src="/assets/js/smallImages.js"></script>
+<script src="/assets/js/adjustImages.js"></script>

@@ -139,3 +139,4 @@ The project leverages state-of-the-art AI technologies:
 
 
 <script src="/assets/js/smallImages.js"></script>
+<script src="/assets/js/adjustImages.js"></script>

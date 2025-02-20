@@ -28,16 +28,7 @@ category: UX Design
 
 #### Participatory Design Approach
 
-To ensure our educational resource effectively meets children's needs, we employed a participatory design methodology, actively engaging end-users in the development process. Our approach involved:
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/designresearch.png" title="Design Research Process" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Overview of our participatory design research process and methodology
-</div>
+To ensure our educational resource effectively meets children's needs, we employed a participatory design methodology. Our design process:
 
 ##### Research Participants
 - 3 children (ages 6-9)
@@ -51,6 +42,14 @@ Semi-structured interviews were conducted to gather insights about:
 - Parents' observations of learning processes
 - Teachers' experiences with educational materials
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/cuby/designresearch.png" title="Design Research Process" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+
 #### Key Research Findings
 
 <div class="row">
@@ -58,9 +57,13 @@ Semi-structured interviews were conducted to gather insights about:
         <div class="card">
             <div class="card-body">
                 <h5>Children's Feedback</h5>
-                - Preference for interactive content
-                - Difficulty with dense text
-                - High engagement with visual elements
+                <div>
+                    <ul>
+                        <li>Preference for interactive content</li>
+                        <li>Difficulty with dense text</li>
+                        <li>High engagement with visual elements</li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
@@ -68,9 +71,13 @@ Semi-structured interviews were conducted to gather insights about:
         <div class="card">
             <div class="card-body">
                 <h5>Parents' Input</h5>
-                - Desire for engaging narratives
-                - Need for simple, clear explanations
-                - Focus on building reading confidence
+                <div>
+                    <ul>
+                        <li>Desire for engaging narratives</li>
+                        <li>Need for simple, clear explanations</li>
+                        <li>Focus on building reading confidence</li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
@@ -78,9 +85,13 @@ Semi-structured interviews were conducted to gather insights about:
         <div class="card">
             <div class="card-body">
                 <h5>Teachers' Insights</h5>
-                - Need for deeper scientific content
-                - Importance of hands-on activities
-                - Value of clear activity guidelines
+                <div>
+                    <ul>
+                        <li>Need for deeper scientific content</li>
+                        <li>Importance of hands-on activities</li>
+                        <li>Need for clear activity guidelines</li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
@@ -173,9 +184,9 @@ The book features six interactive scenarios that teach different aspects of ligh
 </div>
 
 **2. Narrative Design: Learning Guided by Plots**
-- **Emotional Engagement**: Minimalist character design focuses attention on light and shadow phenomena
-- **Progressive Knowledge Integration**: Story complexity aligns with learning objectives
-- **Hidden Narrative Layers**: UV light reveals concealed dialogues, encouraging exploration
+- **Emotional Engagement**: Minimalist character design focuses attention on light and shadow phenomena.
+- **Progressive Knowledge Integration**: Story complexity aligns with learning objectives.
+- **Hidden Narrative Layers**: UV light reveals concealed dialogues, encouraging exploration of more difficult concepts.
 
 **3. Low-Cost and Long-Term Utilization**
 - Practical design optimizes space through strategic structural layout
@@ -227,7 +238,7 @@ Future enhancements may include:
     <h3><i class="fas fa-book"></i> Publications</h3>
     
     <div class="pub-item">
-        <p>📚 The research has been published in Springer's book series.</p>
+        <p>📚 The research will be published in Springer's book series.</p>
     </div>
 </div>
 
@@ -274,3 +285,4 @@ Future enhancements may include:
 </style>
 
 <script src="/assets/js/smallImages.js"></script>
+<script src="/assets/js/adjustImages.js"></script>

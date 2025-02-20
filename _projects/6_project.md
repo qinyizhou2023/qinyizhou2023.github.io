@@ -53,3 +53,4 @@ The integration of Artificial Intelligence Generated Content (AIGC) in product d
 - Evolving role of designers in AI era -->
 
 <script src="/assets/js/smallImages.js"></script>
+<script src="/assets/js/adjustImages.js"></script>

@@ -7,8 +7,7 @@ tags: [travel europe summer]
 ---
 
 
-In the summer of 2023, I had the chance to embark on two remarkable journeys across Europe. Each trip offered unique experiences and insights, creating memories that will last a lifetime.
-## First Journey: 
+In the summer of 2023, I had the chance to embark on two remarkable journeys across Europe. Each trip offered unique experiences and insights!
 <!-- > info "Travel Period"
 > Early Summer 2023 -->
 

@@ -75,10 +75,7 @@ SugarBump is a comprehensive sugar control system that includes:
     </div>
 </div>
 
-## Impact
-- Reduced stress and anxiety around sugar monitoring
-- Improved blood sugar control
-- Better communication with healthcare providers
-- Enhanced support system through community features
+
 
 <script src="/assets/js/smallImages.js"></script>
+<script src="/assets/js/adjustImages.js"></script>
