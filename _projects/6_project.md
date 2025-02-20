@@ -7,12 +7,6 @@ importance: 5
 category: Product Design
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/7.png" title="AIGC Wearable Design Overview" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 ## Research Background
 
 The integration of Artificial Intelligence Generated Content (AIGC) in product design represents a significant shift in the design industry. This research explores how AIGC can enhance and transform the wearable product design process.
