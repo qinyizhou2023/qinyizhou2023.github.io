@@ -87,28 +87,8 @@ The project leverages state-of-the-art AI technologies:
     <h3><i class="fas fa-trophy"></i> Exhibitions & Awards</h3>
 
     <div class="award-item">
-        <p>📌 <strong>Design Patent</strong> - Mobile Extracorporeal Membrane Oxygenation (ECMO)</p>
-    </div>
-
-    <div class="award-item">
-        <p>📌 <strong>Patent for Utility Models</strong> - Mobile Extracorporeal Membrane Oxygenation (ECMO)</p>
-    </div>
-
-    <div class="award-item">
-        <p>🎖️ <strong>Excellence Award</strong> - 2022 Asian New Generation Designer</p>
-    </div>
-
-    <div class="award-item">
-        <p>🎖️ <strong>Outstanding Graduation Design</strong> - Tsinghua University, 2022</p>
-    </div>
-
-    <div class="award-item">
-        <p>🖼️ <strong>Youth Design 100 Exhibition</strong> - June 2022</p>
-    </div>
-
-    <div class="award-item">
-        <p>🖼️ <strong>Graduate Exhibition in Tsinghua University</strong> - Tsinghua University, 2022<br>
-        <a href="https://exhibition.ad.tsinghua.edu.cn/2022/" class="award-link"><i class="fas fa-play-circle"></i> View Online Exhibition</a></p>
+        <p>🖼️ <strong>Xiamen Design & Art Week 2024</strong><br>
+        <a href="https://mp.weixin.qq.com/s/s86bk7HGOIz0YHpJ-WYHyA" class="award-link"><i class="fas fa-play-circle"></i> 查看展览详情</a></p>
     </div>
 </div>
 

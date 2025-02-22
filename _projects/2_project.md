@@ -225,7 +225,9 @@ Future enhancements may include:
         <p>🏆 <strong>Gold Award</strong> - Future Design Education Competition<br>
         <span class="award-date">August 2023</span><br>
         <span class="award-host">Hosted by UNESCO Institute of Information Technology and others</span><br>
-        <a href="https://www.bilibili.com/video/BV1hi421o7gW/" class="award-link"><i class="fas fa-play-circle"></i> Watch Presentation</a></p>
+        <a href="https://www.bilibili.com/video/BV1hi421o7gW/" class="award-link"><i class="fas fa-play-circle"></i> Watch Presentation</a><br>
+        <a href="https://sli.bnu.edu.cn/a/xinwenkuaibao/yanjiudongtai/20230928/2998.html" class="award-link"><i class="fas fa-info-circle"></i> More about the Award</a>
+        </p>
     </div>
 
     <div class="award-item">
