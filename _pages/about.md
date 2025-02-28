@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 🖐Hi!
-I am Qinyi Zhou (周沁怡), a third-year master's student in Industrial Design at Tsinghua University Academy of Arts & Design. I am supervised by [Prof. Sai Ma](https://www.ad.tsinghua.edu.cn/info/1226/15203.htm) and [Prof. Yingqing Xu](https://www.ad.tsinghua.edu.cn/info/1265/15135.htm). I am currently a research intern in [MSRA](https://www.msra.cn/) from Oct 2023. Previously, I was a visiting scholar in [HCI lab](https://hci.ucla.edu/) at UCLA from Sep 2023 to Aug 2024. I collaborated with [Prof. Xiang Anthony Chen](https://hci.prof/) about overreliance on AI.
+I am Qinyi Zhou (周沁怡), a third-year master's student in Industrial Design at Tsinghua University Academy of Arts & Design. I am supervised by [Prof. Sai Ma](https://www.ad.tsinghua.edu.cn/info/1226/15203.htm) and [Prof. Yingqing Xu](https://www.ad.tsinghua.edu.cn/info/1265/15135.htm). I am currently a research intern in [MSRA](https://www.msra.cn/) from Oct 2023. Previously, I was a visiting scholar in [HCI lab](https://hci.ucla.edu/) at UCLA from Jun 2024 to Oct 2024. I collaborated with [Prof. Xiang Anthony Chen](https://hci.prof/) about overreliance on AI.
 
 My research interests is in the intersection of AI and design. I design, develop, and study interactive AI systems that augment human capabilities in creative and critical thinking. Recently, I investigate how AI can not only scaffold but also inspire human creativity through human-AI co-creation.
 

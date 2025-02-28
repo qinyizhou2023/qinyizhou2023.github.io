@@ -1,0 +1,34 @@
+<div class="text-justify">
+  {{reference}}
+
+  {% if entry.abstract %}
+    <span class="abstract-toggle">显示摘要</span>
+    <div class="abstract-text">
+      {{entry.abstract}}
+    </div>
+  {% endif %}
+
+  <div class="links">
+  {%- if entry.pdf %}
+    <a class="btn btn-sm z-depth-0" href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}">PDF</a>
+  {%- endif %}
+  {%- if entry.supp %}
+    <a class="btn btn-sm z-depth-0" href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}">Supplement</a>
+  {%- endif %}
+  {%- if entry.blog %}
+    <a class="btn btn-sm z-depth-0" href="{{ entry.blog }}">Blog</a>
+  {%- endif %}
+  {%- if entry.code %}
+    <a class="btn btn-sm z-depth-0" href="{{ entry.code }}">Code</a>
+  {%- endif %}
+  {%- if entry.poster %}
+    <a class="btn btn-sm z-depth-0" href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}">Poster</a>
+  {%- endif %}
+  {%- if entry.slides %}
+    <a class="btn btn-sm z-depth-0" href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}">Slides</a>
+  {%- endif %}
+  {%- if entry.website %}
+    <a class="btn btn-sm z-depth-0" href="{{ entry.website }}">Website</a>
+  {%- endif %}
+  </div>
+</div> 
