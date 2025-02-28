@@ -22,8 +22,8 @@ I am Qinyi Zhou (周沁怡), a third-year master's student in Industrial Design 
 My research interests is in the intersection of AI and design. I design, develop, and study interactive AI systems that augment human capabilities in creative and critical thinking. Recently, I investigate how AI can not only scaffold but also inspire human creativity through human-AI co-creation.
 
 My research focuses on:
-- How users' cognitive and behavioral patterns affect their interaction with AI.
-- How can we design systems/theory to better support human creativity via human-AI co-creation.
+- How GenAI influences human creative workflows and cognitive processes.
+- How to design AI systems that support creative thinking while mitigating cognitive biases and overreliance.
 
 📫 Get in Touch: 
 I'm always interested in collaborating with researchers who are good at AI, Psychology. Please feel free to reach out via [email](mailto:qinyizhou@tsinghua.edu.cn).
