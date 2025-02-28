@@ -10,7 +10,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography --template bibliography_abstract %}
+{% bibliography %}
 
 </div>
 
@@ -44,12 +44,12 @@ document.addEventListener('DOMContentLoaded', function() {
             var abstract = this.nextElementSibling;
             if (abstract.style.display === 'none' || !abstract.style.display) {
                 abstract.style.display = 'block';
-                this.textContent = '隐藏摘要';
+                this.textContent = 'hide abstract';
             } else {
                 abstract.style.display = 'none';
-                this.textContent = '显示摘要';
+                this.textContent = 'show abstract';
             }
         });
     });
 });
-</script>
+</script> -->
