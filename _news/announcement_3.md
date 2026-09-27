@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Have finished my visiting scholar in Anthony's lab at UCLA. Very grateful for the opportunity to work with him and his team.
+I completed my visiting scholar appointment in Anthony's lab at UCLA. I am grateful for the opportunity to work with him and his team.

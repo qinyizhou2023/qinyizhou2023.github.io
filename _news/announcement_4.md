@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work "ProductMeta: Supporting Ideation in Metaphorical Product Design through Multimodal Large Models" has been conditionally accepted to CHI 2025!
+Our paper "ProductMeta: An Interactive System for Metaphorical Product Design Ideation with Multimodal Large Language Models" was conditionally accepted to CHI 2025!
