@@ -4,16 +4,28 @@ $(document).ready(function () {
     $(this).parent().parent().find(".abstract.hidden").toggleClass("open");
     $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
     $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
+    $(this).parent().parent().find(".video.hidden.open").removeClass("open").find("video").trigger("pause");
   });
   $("a.award").click(function () {
     $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
     $(this).parent().parent().find(".award.hidden").toggleClass("open");
     $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
+    $(this).parent().parent().find(".video.hidden.open").removeClass("open").find("video").trigger("pause");
   });
   $("a.bibtex").click(function () {
     $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
     $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
     $(this).parent().parent().find(".bibtex.hidden").toggleClass("open");
+    $(this).parent().parent().find(".video.hidden.open").removeClass("open").find("video").trigger("pause");
+  });
+  $("a.video").click(function () {
+    const entry = $(this).parent().parent();
+    const video = entry.find(".video.hidden");
+    entry.find(".abstract.hidden.open, .award.hidden.open, .bibtex.hidden.open").removeClass("open");
+    video.toggleClass("open");
+    if (!video.hasClass("open")) {
+      video.find("video").trigger("pause");
+    }
   });
   $("a").removeClass("waves-effect waves-light");
 

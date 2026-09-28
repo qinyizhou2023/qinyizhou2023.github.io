@@ -5,9 +5,9 @@
 title: Qinyi Zhou
 first_name: Qinyi (Chin Yee)
 last_name: Zhou
-email: qinyi.zhou@connect.ust.hk
+email: qzhouaz@connect.ust.hk
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -414,7 +414,7 @@ enable_navbar_social: false # enables displaying social links in the navbar on t
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
-enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
+enable_video_embedding: true # show videos within publication entries on the homepage and publications page
 
 # -----------------------------------------------------------------------------
 # Library versions

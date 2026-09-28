@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="assets/pdf/CV_2024.9.30.pdf"><i class="fas fa-file-pdf"></i> CV</a></p>
-    <p><a href="mailto:zhouqy22@mails.tsinghua.edu.cn"><i class="fas fa-envelope"></i> Email</a></p>
+    <p><a href="mailto:qzhouaz@connect.ust.hk"><i class="fas fa-envelope"></i> Email</a></p>
     <p><a href="https://scholar.google.com/citations?user=7adtJAkAAAAJ&hl=zh-CN"><i class="ai ai-google-scholar"></i> Google Scholar</a></p>
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,7 +27,7 @@ My research focuses on:
 - How to design AI systems that support creative thinking while mitigating cognitive biases and overreliance.
 
 📫 Get in Touch: 
-I'm always interested in collaborating with researchers who are good at AI, Psychology. Please feel free to reach out via [email](mailto:qinyi.zhou@connect.ust.hk).
+I'm always interested in collaborating with researchers who are good at AI, Psychology. The best way to reach me is by [email](mailto:qzhouaz@connect.ust.hk).
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
