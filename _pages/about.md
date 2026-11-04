@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 🖐Hi!
-I am Qinyi Zhou (周沁怡), a first-year PhD student at the Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Yike Guo](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yike-guo-yikeguo) and [Prof. Huamin Qu](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=huamin-qu-huamin).
+I am Qinyi Zhou (周沁怡), a first-year PhD student at the Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Yike Guo](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yike-guo-yikeguo) and [Prof. Wei Xue](http://wei-xue.com/).
 Before joining HKUST, I earned my master's degree from the Academy of Arts & Design, Tsinghua University, where I was supervised by [Prof. Sai Ma](https://www.ad.tsinghua.edu.cn/info/1226/15203.htm) and [Prof. Yingqing Xu](https://www.ad.tsinghua.edu.cn/info/1265/15135.htm). I worked as a research intern at [MSRA](https://www.msra.cn/) from Oct 2023 to Apr 2025. Additionally, I served as a visiting scholar in [HCI lab](https://hci.ucla.edu/) at UCLA, where I collaborated with [Prof. Xiang Anthony Chen](https://hci.prof/) about overreliance on AI.
 
 My research interests lie at the intersection of AI and design. I design, develop, and study interactive AI systems that augment human capabilities in creative and critical thinking. Recently, I have been investigating how AI can not only scaffold but also inspire human creativity through human-AI co-creation.
